@@ -1,0 +1,14 @@
+img{
+    height: 300px;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: red;
+}
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot {
+    background: 0 0;
+    color: blue;
+    border: none;
+    padding: 0!important;
+    font: inherit;
+    font-size: 20px;
+}
